@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 50%;
+    height: 100%;
+    background-color: darkslateblue;
+}
+
+/*=====Image1-1=====*/
+
+#grid1-1-drop{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+#img1-1-draggable {
+    position: absolute;
+    right:0px;
+    top: 0px;
+}
+
+
+/*=====Image1-2=====*/
+#grid1-2-drop {
+    position: absolute;
+    left: 200px;
+    top: 0px;
+}
+
+#img1-2-draggable {
+    position: absolute;
+    right: 200px;
+    top: 0px;
+}
+
+/*=====Image1-3=====*/
+
+#grid1-3-drop{
+    position: absolute;
+    left: 800px;
+    top: 0px;
+}
+
+#img1-3-draggable {
+    position: absolute;
+    right: 400px;
+    top: 0px;
+}
+
+/*=====Image2-1=====*/
+
+#grid2-1-drop{
+    position: absolute;
+    left: 0px;
+    top: 200px;
+}
+
+#img2-1-draggable {
+    position: absolute;
+    right: 0px;
+    top: 200px;
+}
+
+/*=====Image2-2=====*/
+
+#grid2-2-drop{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+#img2-2-draggable {
+    position: absolute;
+    right: 200px;
+    top: 200px;
+}
+
+/*=====Image2-3=====*/
+
+#grid2-3-drop{
+    position: absolute;
+    left: 400px;
+    top: 200px;
+}
+
+#img2-3-draggable {
+    position: absolute;
+    right: 400px;
+    top: 200px;
+}
+
+/*=====Image3-1=====*/
+
+#grid3-1-drop{
+    position: absolute;
+    left: 0px;
+    top: 400px;
+}
+
+#img3-1-draggable {
+    position: absolute;
+    right: 0px;
+    top: 400px;
+}
+
+/*=====Image3-2=====*/
+
+#grid3-2-drop{
+    position: absolute;
+    left: 200px;
+    top: 400px;
+}
+
+#img3-2-draggable {
+    position: absolute;
+    right: 200px;
+    top: 400px;
+}
+
+
+/*=====Image3-3=====*/
+
+#grid3-3-drop{
+    position: absolute;
+    left: 400px;
+    top: 400px;
+}
+
+#img3-3-draggable {
+    position: absolute;
+    right: 400px;
+    top: 400px;
+}
+
